@@ -17,9 +17,7 @@ For instance: If you have got two dvd orders, the last one overrides the first o
 Have fun with Apache Camel.
 
 Best regards,
-Kai Waehner
-Twitter: @KaiWaehner
-www.kai-waehner.de
+Madhur Chouhan
 
 
     
